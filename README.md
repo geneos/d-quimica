@@ -6,10 +6,15 @@ Desarrollado en Drupal 7
 Cooperativa de Trabajo GENEOS Ltda
 
  * Acerca del proyecto
+   https://github.com/geneos/d-quimica#acerca-del-proyecto
  * Principales características
+   https://github.com/geneos/d-quimica#principales-caracteristicas
  * Funcionalidades
+   https://github.com/geneos/d-quimica#funcionalidades
  * Instalación
+   https://github.com/geneos/d-quimica#instalacion
  
+
 ACERCA DEL PROYECTO
 ------------
 
